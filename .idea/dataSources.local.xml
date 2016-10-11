@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - libery@localhost" uuid="9572daa7-6dd4-4241-bfa6-f51cceb5c917">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>libery:</introspection-scope>
+      <resolve-scope>libery:</resolve-scope>
+    </data-source>
+  </component>
+</project>
