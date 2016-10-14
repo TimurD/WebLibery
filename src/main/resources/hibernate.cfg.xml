@@ -4,12 +4,12 @@
     "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
   <session-factory>
-    <property name="hibernate.dialect"  >org.hibernate.dialect.MySQLDialect</property>
+    <property name="hibernate.dialect"  >org.hibernate.dialect.MySQL5Dialect</property>
     <property name="connection.url">jdbc:mysql://localhost:3306/libery</property>
     <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
     <property name="hibernate.show_sql">true</property>
     <property name="hibernate.current_session_context_class">thread</property>
-    <property name="hibernate.connection.datasource">jdbc/Library</property>
+    <property name="hibernate.connection.datasource">jdbc/_libery</property>
     <property name="hibernate.connection.password">root</property>
     <property name="hibernate.connection.username">root</property>
     <mapping resource="com/java/spring/libery/entity/Author.hbm.xml"/>

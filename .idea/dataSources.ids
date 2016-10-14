@@ -202,4 +202,206 @@
       </foreign-key>
     </database-model>
   </data-source>
+  <data-source name="hibernate.cfg.xml/Hibernate" uuid="2d4209d3-9d84-427d-b5e0-35f243ed611e">
+    <database-info product="MySQL" version="5.7.14-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+      <schema id="1" name="libery">
+        <visible>1</visible>
+      </schema>
+      <schema id="2" name="drinks"/>
+      <schema id="3" name="gregs_list"/>
+      <schema id="4" name="hh_student_tracker"/>
+      <schema id="5" name="information_schema"/>
+      <schema id="6" name="javabegin"/>
+      <schema id="7" name="mydbtest"/>
+      <schema id="8" name="mysql"/>
+      <schema id="9" name="performance_schema"/>
+      <schema id="10" name="sakila"/>
+      <schema id="11" name="sys"/>
+      <schema id="12" name="users_list"/>
+      <schema id="13" name="world"/>
+      <table id="14" parent="1" name="author"/>
+      <table id="15" parent="1" name="book"/>
+      <table id="16" parent="1" name="genre"/>
+      <table id="17" parent="1" name="publisher"/>
+      <table id="18" parent="1" name="vote"/>
+      <column id="19" parent="14" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="20" parent="14" name="first_name">
+        <data-type>varchar(50)|0</data-type>
+      </column>
+      <column id="21" parent="14" name="birth">
+        <data-type>date|0</data-type>
+      </column>
+      <column id="22" parent="14" name="second_name">
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <index id="23" parent="14" name="id_UNIQUE">
+        <columns>id</columns>
+        <desc-columns></desc-columns>
+        <unique>1</unique>
+      </index>
+      <key id="24" parent="14" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <key id="25" parent="14" name="id_UNIQUE">
+        <columns>id</columns>
+        <underlying-index>id_UNIQUE</underlying-index>
+      </key>
+      <column id="26" parent="15" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="27" parent="15" name="name">
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <column id="28" parent="15" name="pageCount">
+        <data-type>int(4)|0</data-type>
+      </column>
+      <column id="29" parent="15" name="publishYear">
+        <data-type>int(4)|0</data-type>
+      </column>
+      <column id="30" parent="15" name="publisher_id">
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="31" parent="15" name="genre_id">
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="32" parent="15" name="ISBN">
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <column id="33" parent="15" name="description">
+        <data-type>varchar(1000)|0</data-type>
+      </column>
+      <column id="34" parent="15" name="rating">
+        <data-type>double|0</data-type>
+      </column>
+      <column id="35" parent="15" name="vote_count">
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="36" parent="15" name="image">
+        <data-type>longblob|0</data-type>
+      </column>
+      <column id="37" parent="15" name="content">
+        <data-type>longblob|0</data-type>
+      </column>
+      <column id="38" parent="15" name="autho_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+      </column>
+      <index id="39" parent="15" name="fk_author_idx">
+        <columns>autho_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <index id="40" parent="15" name="fk_genre_idx">
+        <columns>genre_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <index id="41" parent="15" name="fk_publisher_idx">
+        <columns>publisher_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <index id="42" parent="15" name="id_UNIQUE">
+        <columns>id</columns>
+        <desc-columns></desc-columns>
+        <unique>1</unique>
+      </index>
+      <index id="43" parent="15" name="ISBN_UNIQUE">
+        <columns>ISBN</columns>
+        <desc-columns></desc-columns>
+        <unique>1</unique>
+      </index>
+      <key id="44" parent="15" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <key id="45" parent="15" name="id_UNIQUE">
+        <columns>id</columns>
+        <underlying-index>id_UNIQUE</underlying-index>
+      </key>
+      <key id="46" parent="15" name="ISBN_UNIQUE">
+        <columns>ISBN</columns>
+        <underlying-index>ISBN_UNIQUE</underlying-index>
+      </key>
+      <foreign-key id="47" parent="15" name="fk_publisher">
+        <columns>publisher_id</columns>
+        <ref-key>~.publisher.PRIMARY</ref-key>
+        <cascade-update-rule>no_action</cascade-update-rule>
+        <cascade-delete-rule>no_action</cascade-delete-rule>
+      </foreign-key>
+      <foreign-key id="48" parent="15" name="fk_genre">
+        <columns>genre_id</columns>
+        <ref-key>~.genre.PRIMARY</ref-key>
+        <cascade-update-rule>no_action</cascade-update-rule>
+        <cascade-delete-rule>no_action</cascade-delete-rule>
+      </foreign-key>
+      <foreign-key id="49" parent="15" name="fk_author">
+        <columns>autho_id</columns>
+        <ref-key>~.author.id_UNIQUE</ref-key>
+        <cascade-update-rule>no_action</cascade-update-rule>
+        <cascade-delete-rule>no_action</cascade-delete-rule>
+      </foreign-key>
+      <column id="50" parent="16" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="51" parent="16" name="name">
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <key id="52" parent="16" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <column id="53" parent="17" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="54" parent="17" name="name">
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <key id="55" parent="17" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <column id="56" parent="18" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="57" parent="18" name="value">
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="58" parent="18" name="book_id">
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="59" parent="18" name="username">
+        <data-type>varchar(45)|0</data-type>
+      </column>
+      <index id="60" parent="18" name="fk_book_idx">
+        <columns>book_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <key id="61" parent="18" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+      <foreign-key id="62" parent="18" name="fk_book">
+        <columns>book_id</columns>
+        <ref-key>~.book.id_UNIQUE</ref-key>
+        <cascade-update-rule>no_action</cascade-update-rule>
+        <cascade-delete-rule>no_action</cascade-delete-rule>
+      </foreign-key>
+    </database-model>
+  </data-source>
 </component>

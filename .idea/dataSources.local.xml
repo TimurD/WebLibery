@@ -7,5 +7,11 @@
       <introspection-scope>libery:</introspection-scope>
       <resolve-scope>libery:</resolve-scope>
     </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="2d4209d3-9d84-427d-b5e0-35f243ed611e">
+      <user-name>root</user-name>
+      <user-password>dfc0dfcedfc8dfc9df90dfc7dfd3dfd9dfdbdfc6df90df85df85dfc6dfc5dfc9dfcbdfc6dfc2dfc5dfd9dfdedf90df99df99df9adf9cdf85dfc6dfc3dfc8dfcfdfd8dfd3</user-password>
+      <introspection-scope>libery:</introspection-scope>
+      <resolve-scope>libery:</resolve-scope>
+    </data-source>
   </component>
 </project>
