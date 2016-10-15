@@ -1,7 +1,7 @@
 package com.java.spring.libery.interfaces;
 
-import com.java.spring.libery.classes.Author;
-import com.java.spring.libery.classes.Book;
+import com.java.spring.libery.entity.Author;
+import com.java.spring.libery.entity.Book;
 
 import java.util.List;
 
