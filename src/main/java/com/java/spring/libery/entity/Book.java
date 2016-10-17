@@ -10,15 +10,15 @@ public class Book {
     private String name;
     private Integer pageCount;
     private Integer publishYear;
-    private Integer publisherId;
-    private Integer genreId;
+    private Publisher publisherId;
+    private Genre genreId;
     private String isbn;
     private String description;
     private Double rating;
     private Integer voteCount;
     private byte[] image;
     private byte[] content;
-    private int authoId;
+    private Author authoId;
 
     public int getId() {
         return id;
@@ -52,19 +52,19 @@ public class Book {
         this.publishYear = publishYear;
     }
 
-    public Integer getPublisherId() {
+    public Publisher getPublisherId() {
         return publisherId;
     }
 
-    public void setPublisherId(Integer publisherId) {
+    public void setPublisherId(Publisher publisherId) {
         this.publisherId = publisherId;
     }
 
-    public Integer getGenreId() {
+    public Genre getGenreId() {
         return genreId;
     }
 
-    public void setGenreId(Integer genreId) {
+    public void setGenreId(Genre genreId) {
         this.genreId = genreId;
     }
 
@@ -116,11 +116,11 @@ public class Book {
         this.content = content;
     }
 
-    public int getAuthoId() {
+    public Author getAuthoId() {
         return authoId;
     }
 
-    public void setAuthoId(int authoId) {
+    public void setAuthoId(Author authoId) {
         this.authoId = authoId;
     }
 
@@ -132,7 +132,6 @@ public class Book {
         Book book = (Book) o;
 
         if (id != book.id) return false;
-        if (authoId != book.authoId) return false;
         if (name != null ? !name.equals(book.name) : book.name != null) return false;
         if (pageCount != null ? !pageCount.equals(book.pageCount) : book.pageCount != null) return false;
         if (publishYear != null ? !publishYear.equals(book.publishYear) : book.publishYear != null) return false;
@@ -144,8 +143,8 @@ public class Book {
         if (voteCount != null ? !voteCount.equals(book.voteCount) : book.voteCount != null) return false;
         if (!Arrays.equals(image, book.image)) return false;
         if (!Arrays.equals(content, book.content)) return false;
+        return authoId != null ? authoId.equals(book.authoId) : book.authoId == null;
 
-        return true;
     }
 
     @Override
@@ -162,7 +161,7 @@ public class Book {
         result = 31 * result + (voteCount != null ? voteCount.hashCode() : 0);
         result = 31 * result + Arrays.hashCode(image);
         result = 31 * result + Arrays.hashCode(content);
-        result = 31 * result + authoId;
+        result = 31 * result + (authoId != null ? authoId.hashCode() : 0);
         return result;
     }
 }

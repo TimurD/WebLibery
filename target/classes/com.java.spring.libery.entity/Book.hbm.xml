@@ -9,14 +9,21 @@
         <property name="name" column="name"/>
         <property name="pageCount" column="pageCount"/>
         <property name="publishYear" column="publishYear"/>
-        <property name="publisherId" column="publisher_id"/>
-        <property name="genreId" column="genre_id"/>
+        <many-to-one class="com.java.spring.libery.entity.Publisher" name="publisherId" fetch="join" lazy="false">
+            <column name="publisher_id" not-null="true"/>
+        </many-to-one>
+        <many-to-one class="com.java.spring.libery.entity.Author" name="authoId" fetch="join" lazy="false">
+            <column name="autho_id" not-null="true"/>
+        </many-to-one>
+        <many-to-one class="com.java.spring.libery.entity.Genre" name="genreId" fetch="join" lazy="false">
+            <column name="genre_id" not-null="true"/>
+        </many-to-one>
         <property name="isbn" column="ISBN"/>
         <property name="description" column="description"/>
         <property name="rating" column="rating"/>
         <property name="voteCount" column="vote_count"/>
         <property name="image" column="image"/>
         <property name="content" column="content"/>
-        <property name="authoId" column="autho_id"/>
+
     </class>
 </hibernate-mapping>
