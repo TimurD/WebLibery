@@ -10,9 +10,10 @@
       http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd ">
     <import resource="webflow-config.xml"/>
     <context:component-scan base-package="com.java.spring.libery"/>
-    <mvc:resources mapping="/resources/**" location="/"/>
+    <mvc:resources mapping="/resources/**" location="/resources/"/>
     <bean class="org.springframework.webflow.mvc.servlet.FlowHandlerMapping">
         <property name="flowRegistry" ref="flowRegistry"/>
+        <property name="order" value="2"></property>
     </bean>
     <bean class="org.springframework.faces.webflow.JsfFlowHandlerAdapter">
         <property name="flowExecutor" ref="flowExecutor"/>
@@ -22,6 +23,19 @@
         <property name="defaultEncoding" value="UTF-8" />
 
     </bean>
+
+    <bean name="resourceHandlerJsf" class="org.springframework.faces.webflow.JsfResourceRequestHandler"></bean>
+
+    <bean class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+        <property name="order" value="1"></property>
+        <property name="mappings">
+            <value>
+                /javax.faces.resource/**=resourceHandlerJsf
+            </value>
+        </property>
+    </bean>
+
+
     <bean id="localeResolver" class="org.springframework.web.servlet.i18n.SessionLocaleResolver">
 
         <property name="defaultLocale" value="ru"/>

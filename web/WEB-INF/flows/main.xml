@@ -5,9 +5,9 @@
 
     <view-state id="main" >
 
-        <on-render>
+       <!-- <on-render>
             <evaluate expression="bookSearchImol.showBooks()"/>
-        </on-render>
+        </on-render>-->
 
   </view-state>
 
