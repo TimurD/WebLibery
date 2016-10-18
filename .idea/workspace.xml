@@ -2,325 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="125c97b8-9292-4f48-96a7-f2f69e3ba981" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/add.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/ajax_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/book.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/button-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/button_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/down-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/en/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/en/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/eng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/facebook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/feedback.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/lib.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/library.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/load-pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/pluse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/read-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/recycle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/required.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/ru/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/ru/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/rus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/search.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/select-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/splash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/submit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/usa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/images/vk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_flat_0_2d5972_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_flat_0_4f4f4f_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_flat_100_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_highlight-hard_80_85b2cb_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_highlight-hard_80_c4c4c4_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_highlight-hard_80_e3e3e3_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_highlight-soft_100_c4c4c4_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_highlight-soft_75_85b2cb_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_inset-hard_65_85b2cb_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_inset-hard_65_c4c4c4_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_2d5972_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_38667f_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_3a6983_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_616161_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_898989_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/images/colorpicker_select.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/editor/images/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/editor/images/toolbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/fileupload/ie-anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/forms/password-meter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecompare/handle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecompare/lt-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecompare/rt-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecropper/crop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/lightbox/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/log/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/log/panel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/messages/messages.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/photocam/jscam.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/photocam/photocam.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/rating/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/rating/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/rating/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/add.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/ajax_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/book.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/button-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/button_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/down-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/en/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/en/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/eng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/facebook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/feedback.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/lib.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/library.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/load-pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/pluse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/read-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/recycle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/required.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/ru/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/ru/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/rus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/search.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/select-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/splash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/submit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/usa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/images/vk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_flat_0_2d5972_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_flat_0_4f4f4f_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_flat_100_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_highlight-hard_80_85b2cb_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_highlight-hard_80_c4c4c4_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_highlight-hard_80_e3e3e3_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_highlight-soft_100_c4c4c4_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_highlight-soft_75_85b2cb_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_inset-hard_65_85b2cb_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_inset-hard_65_c4c4c4_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_2d5972_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_38667f_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_3a6983_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_616161_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_898989_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/images/colorpicker_select.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/editor/images/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/editor/images/toolbar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/fileupload/ie-anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/forms/password-meter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecompare/handle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecompare/lt-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecompare/rt-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecropper/crop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/lightbox/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/log/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/log/panel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/messages/messages.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/photocam/jscam.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/photocam/photocam.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/rating/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/rating/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/rating/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/spacer/dot_clear.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/tree/images/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/treetable/images/toggle-collapse-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/treetable/images/toggle-collapse-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/treetable/images/toggle-expand-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/treetable/images/toggle-expand-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/spacer/dot_clear.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/tree/images/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/treetable/images/toggle-collapse-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/treetable/images/toggle-collapse-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/treetable/images/toggle-expand-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/treetable/images/toggle-expand-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/GenreSearchImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/ShowGenre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/locales/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/footer.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/header.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/letters.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/library.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/locales.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/logo.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/css/authorization.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/css/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/library.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces-library/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/charts/charts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/charts/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/charts/jqplot.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/clock/clock.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/clock/clock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/colorpicker/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/dock/assets/iepngfix.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/dock/dock.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/dock/dock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/dynamiccontent.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/editor/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/editor/editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/fileupload/fileupload.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/fileupload/fileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/fileupload/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/galleria/galleria.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/galleria/galleria.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/gmap/gmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/hotkey/hotkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/idlemonitor/idlemonitor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecompare/imagecompare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecropper/imagecropper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imagecropper/imagecropper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/imageswitch/imageswitch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/jquery/extensions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/jquery/jquery-plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/keyboard/keyboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/keyboard/keyboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/layout/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/layout/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/log/log.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/log/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/mindmap/mindmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/mousewheel/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/photocam/photocam.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/primefaces.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/primefaces.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/printer/printer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/push/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/raphael/raphael.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/css/authorization.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/css/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/js/library.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces-library/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/charts/charts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/charts/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/charts/jqplot.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/clock/clock.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/clock/clock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/colorpicker/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/dock/assets/iepngfix.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/dock/dock.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/dock/dock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/dynamiccontent.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/editor/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/editor/editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/fileupload/fileupload.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/fileupload/fileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/fileupload/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/galleria/galleria.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/galleria/galleria.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/gmap/gmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/hotkey/hotkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/idlemonitor/idlemonitor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecompare/imagecompare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecropper/imagecropper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imagecropper/imagecropper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/imageswitch/imageswitch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/jquery/extensions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/jquery/jquery-plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/keyboard/keyboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/keyboard/keyboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/layout/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/layout/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/log/log.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/log/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/mindmap/mindmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/mousewheel/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/photocam/photocam.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/primefaces.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/primefaces.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/printer/printer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/push/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/raphael/raphael.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/ring/ring.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/ring/ring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/schedule/schedule.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/schedule/schedule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/sheet/sheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/sheet/sheet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/stack/stack.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/stack/stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/terminal/terminal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/terminal/terminal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/watermark/watermark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/resources/primefaces/watermark/watermark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/ring/ring.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/ring/ring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/schedule/schedule.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/schedule/schedule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/sheet/sheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/sheet/sheet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/stack/stack.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/stack/stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/terminal/terminal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/terminal/terminal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/watermark/watermark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/primefaces/watermark/watermark.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/classes/com/java/spring/libery/classes/BookSearchImol.class" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/classes/com/java/spring/libery/classes/BookSearchImol.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/java/spring/libery/classes/BookSearchImol.class" afterPath="$PROJECT_DIR$/target/classes/com/java/spring/libery/classes/BookSearchImol.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/enums/SearchType.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/configs/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/configs/dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/flows/main.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/flows/main.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/flows/main.xml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/flows/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/locales/messages_en.properties" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/locales/messages_en.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/locales/messages_ru.properties" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/locales/messages_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/genres.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/genres.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/locales.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/locales.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/flows/main.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/flows/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/locales/messages_en.properties" afterPath="$PROJECT_DIR$/web/WEB-INF/locales/messages_en.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/locales/messages_ru.properties" afterPath="$PROJECT_DIR$/web/WEB-INF/locales/messages_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/templates/locales.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/locales.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml" />
     </list>
     <ignored path="SpringWebLibery.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -364,31 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="library.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/resources/js/library.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo.xhtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/logo.xhtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="genres.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            <state relative-caret-position="421">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -397,21 +68,44 @@
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="175">
+              <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
               <folding>
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#533#553#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="139">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locales.xhtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/locales.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/enums/SearchType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -430,18 +124,18 @@
       <file leaf-file-name="authorization.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/resources/css/authorization.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.xhtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="search.xhtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -469,6 +163,7 @@
         <option value="Properties" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -511,11 +206,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/BookSearchImol.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/ShowGenre.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/GenreSearchImpl.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/flows/main.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/templates/locales.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/enums/SearchType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml" />
       </list>
     </option>
   </component>
@@ -550,7 +248,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -609,6 +307,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -780,28 +480,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringWebLibery2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringWebLibery2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -882,8 +560,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1564,19 +1240,20 @@
       <workItem from="1476560431784" duration="2605000" />
       <workItem from="1476566008252" duration="3254000" />
       <workItem from="1476637909167" duration="5418000" />
-      <workItem from="1476702235870" duration="7905000" />
+      <workItem from="1476702235870" duration="8742000" />
+      <workItem from="1476813432290" duration="5306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46592000" />
+    <option name="totallyTimeSpent" value="52735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1592,12 +1269,12 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24659607" sideWeight="0.51902175" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24658574" sideWeight="0.48097825" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583964" sideWeight="0.48097825" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1646,20 +1323,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/BookSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/SecureLibery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1747,14 +1410,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/glassfish-web.xml">
-      <provider editor-type-id="com.intellij.javaee.oss.glassfish.editor.GlassfishWebRootProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="49" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.oss.glassfish.editor.GlassfishWebRootProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.xhtml">
@@ -1772,13 +1435,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/locales/messages_en.properties">
-      <provider selected="true" editor-type-id="ResourceBundle">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="ResourceBundle">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/configs/faces-config.xml">
@@ -1810,38 +1473,38 @@
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/28921a40/9572daa7-6dd4-4241-bfa6-f51cceb5c917/libery.author">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/28921a40/9572daa7-6dd4-4241-bfa6-f51cceb5c917/libery.author">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/28921a40/9572daa7-6dd4-4241-bfa6-f51cceb5c917/libery.author">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1872,7 +1535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1880,60 +1542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#525#526#0" expanded="false" />
-            <element signature="e#550#551#0" expanded="false" />
-            <element signature="e#583#584#0" expanded="false" />
-            <element signature="e#611#612#0" expanded="false" />
-            <element signature="e#642#643#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="false" />
-            <element signature="e#709#710#0" expanded="false" />
-            <element signature="e#741#742#0" expanded="false" />
-            <element signature="e#778#779#0" expanded="false" />
-            <element signature="e#810#811#0" expanded="false" />
-            <element signature="e#861#862#0" expanded="false" />
-            <element signature="e#903#904#0" expanded="false" />
-            <element signature="e#942#943#0" expanded="false" />
-            <element signature="e#976#977#0" expanded="false" />
-            <element signature="e#1031#1032#0" expanded="false" />
-            <element signature="e#1077#1078#0" expanded="false" />
-            <element signature="e#1118#1119#0" expanded="false" />
-            <element signature="e#1152#1153#0" expanded="false" />
-            <element signature="e#1209#1210#0" expanded="false" />
-            <element signature="e#1255#1256#0" expanded="false" />
-            <element signature="e#1288#1289#0" expanded="false" />
-            <element signature="e#1318#1319#0" expanded="false" />
-            <element signature="e#1363#1364#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-            <element signature="e#1432#1433#0" expanded="false" />
-            <element signature="e#1459#1460#0" expanded="false" />
-            <element signature="e#1499#1500#0" expanded="false" />
-            <element signature="e#1531#1532#0" expanded="false" />
-            <element signature="e#1569#1570#0" expanded="false" />
-            <element signature="e#1603#1604#0" expanded="false" />
-            <element signature="e#1657#1658#0" expanded="false" />
-            <element signature="e#1703#1704#0" expanded="false" />
-            <element signature="e#1736#1737#0" expanded="false" />
-            <element signature="e#1765#1766#0" expanded="false" />
-            <element signature="e#1809#1810#0" expanded="false" />
-            <element signature="e#1845#1846#0" expanded="false" />
-            <element signature="e#1882#1883#0" expanded="false" />
-            <element signature="e#1914#1915#0" expanded="false" />
-            <element signature="e#1965#1966#0" expanded="false" />
-            <element signature="e#2007#2008#0" expanded="false" />
-            <element signature="e#2039#2040#0" expanded="false" />
-            <element signature="e#2067#2068#0" expanded="false" />
-            <element signature="e#2109#2110#0" expanded="false" />
-            <element signature="e#2143#2144#0" expanded="false" />
-            <element signature="e#2177#2178#0" expanded="false" />
-            <element signature="e#2207#2208#0" expanded="false" />
-            <element signature="e#2253#2254#0" expanded="false" />
-            <element signature="e#2291#2292#0" expanded="false" />
-            <element signature="e#2325#2326#0" expanded="false" />
-            <element signature="e#2355#2356#0" expanded="false" />
-            <element signature="e#2401#2402#0" expanded="false" />
-            <element signature="e#2439#2440#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1949,37 +1557,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#261#262#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-            <element signature="e#383#384#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-            <element signature="e#465#466#0" expanded="false" />
-            <element signature="e#507#508#0" expanded="false" />
-            <element signature="e#537#538#0" expanded="false" />
-            <element signature="e#565#566#0" expanded="false" />
-            <element signature="e#605#606#0" expanded="false" />
-            <element signature="e#639#640#0" expanded="false" />
-            <element signature="e#676#677#0" expanded="false" />
-            <element signature="e#709#710#0" expanded="false" />
-            <element signature="e#761#762#0" expanded="false" />
-            <element signature="e#805#806#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/28921a40/2d4209d3-9d84-427d-b5e0-35f243ed611e/libery.book">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1988,7 +1577,7 @@
         <state relative-caret-position="101">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2013,7 +1602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2021,9 +1609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2031,11 +1616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="84" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2048,14 +1628,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/locales/messages_ru.properties">
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/logo.xhtml">
@@ -2063,25 +1643,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2101,14 +1662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/footer.xhtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2117,18 +1670,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/locales.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/enums/SearchType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="32" column="73" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#533#553#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/resources/css/authorization.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="204">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
           <folding />
         </state>
       </provider>
