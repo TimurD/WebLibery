@@ -64,4 +64,14 @@ public class Vote {
         result = 31 * result + (username != null ? username.hashCode() : 0);
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "Vote{" +
+                "id=" + id +
+                ", value=" + value +
+                ", bookId=" + bookId +
+                ", username='" + username + '\'' +
+                '}';
+    }
 }

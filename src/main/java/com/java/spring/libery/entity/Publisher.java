@@ -4,6 +4,11 @@ package com.java.spring.libery.entity;
  * Created by timur_000 on 11.10.2016.
  */
 public class Publisher {
+    @Override
+    public String toString() {
+        return name;
+    }
+
     private int id;
     private String name;
 

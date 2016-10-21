@@ -11,6 +11,11 @@ public class Author {
     private Date birth;
     private String secondName;
 
+    @Override
+    public String toString() {
+        return secondName+" "+firstName;
+    }
+
     public int getId() {
         return id;
     }

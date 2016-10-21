@@ -284,7 +284,7 @@
         <data-type>varchar(1000)|0</data-type>
       </column>
       <column id="35" parent="16" name="rating">
-        <data-type>double|0</data-type>
+        <data-type>int(11)|0</data-type>
       </column>
       <column id="36" parent="16" name="vote_count">
         <data-type>int(11)|0</data-type>

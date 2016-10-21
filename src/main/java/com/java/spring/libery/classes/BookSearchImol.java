@@ -10,6 +10,7 @@ import org.hibernate.criterion.*;
 import org.hibernate.transform.Transformers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.xml.transform.Transformer;
@@ -24,6 +25,7 @@ public class BookSearchImol implements BookSearch {
 
 
     ProjectionList bookProjection;
+
     public BookSearchImol(){
         bookProjection= Projections.projectionList();
         bookProjection.add(Projections.property("id"),"id");

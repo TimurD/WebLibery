@@ -1,11 +1,14 @@
 package com.java.spring.libery.entity;
 
+import org.springframework.stereotype.Component;
+
+import java.io.Serializable;
 import java.util.Arrays;
 
 /**
  * Created by timur_000 on 11.10.2016.
  */
-public class Book {
+public class Book implements Serializable {
     private int id;
     private String name;
     private Integer pageCount;
@@ -13,8 +16,28 @@ public class Book {
     private Publisher publisherId;
     private Genre genreId;
     private String isbn;
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", pageCount=" + pageCount +
+                ", publishYear=" + publishYear +
+                ", publisherId=" + publisherId +
+                ", genreId=" + genreId +
+                ", isbn='" + isbn + '\'' +
+                ", description='" + description + '\'' +
+                ", rating=" + rating +
+                ", voteCount=" + voteCount +
+                ", image=" + Arrays.toString(image) +
+                ", content=" + Arrays.toString(content) +
+                ", authoId=" + authoId +
+                '}';
+    }
+
     private String description;
-    private Double rating;
+    private Integer rating;
     private Integer voteCount;
     private byte[] image;
     private byte[] content;
@@ -84,11 +107,11 @@ public class Book {
         this.description = description;
     }
 
-    public Double getRating() {
+    public Integer getRating() {
         return rating;
     }
 
-    public void setRating(Double rating) {
+    public void setRating(Integer rating) {
         this.rating = rating;
     }
 
