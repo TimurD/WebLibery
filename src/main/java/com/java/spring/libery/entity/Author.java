@@ -6,6 +6,13 @@ import java.sql.Date;
  * Created by timur_000 on 11.10.2016.
  */
 public class Author {
+    public Author() {
+    }
+
+    public Author(String secondName) {
+        this.secondName = secondName;
+    }
+
     private int id;
     private String firstName;
     private Date birth;

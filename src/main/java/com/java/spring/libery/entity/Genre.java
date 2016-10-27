@@ -1,9 +1,12 @@
 package com.java.spring.libery.entity;
 
+import java.io.Serializable;
+
 /**
  * Created by timur_000 on 11.10.2016.
  */
-public class Genre {
+public class Genre implements Serializable
+{
     private int id;
     private String name;
 

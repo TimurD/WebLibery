@@ -3,6 +3,7 @@ package com.java.spring.libery.classes;
 import com.java.spring.libery.entity.*;
 import com.java.spring.libery.entity.Author;
 import com.java.spring.libery.entity.Book;
+import com.java.spring.libery.entity.Genre;
 import com.java.spring.libery.interfaces.BookSearch;
 import org.hibernate.Criteria;
 import org.hibernate.SessionFactory;
@@ -57,7 +58,7 @@ public class BookSearchImol implements BookSearch {
 
     @Transactional
     public List<Book> showBooks(Author author) {
-        books=createBookList(createBookCriteria().add(Restrictions.ilike("author.second_name",author.getSecondName(),MatchMode.ANYWHERE)));
+        books=createBookList(createBookCriteria().add(Restrictions.ilike("authoId.secondName",author.getSecondName(),MatchMode.ANYWHERE)));
         return books;
     }
     @Transactional
@@ -68,6 +69,11 @@ public class BookSearchImol implements BookSearch {
     @Transactional
     public List<Book> showBooks(Character firstLater) {
         books=createBookList(createBookCriteria().add(Restrictions.ilike("b.name",firstLater.toString(),MatchMode.START)));
+        return books;
+    }
+    @Transactional
+    public List<Book> showBooks(Genre genre) {
+         books = createBookList(createBookCriteria().add(Restrictions.eq("genreId.id", genre.getId())));
         return books;
     }
 

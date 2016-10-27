@@ -5,6 +5,17 @@
 
     <view-state id="main" >
 
+    <transition on="searchByLetter">
+    <evaluate expression="libraryFacade.searchBooksByLetter()"></evaluate>
+    </transition>
+
+        <transition on="searchBooksByText">
+            <evaluate expression="libraryFacade.searchBooksByText()"></evaluate>
+        </transition>
+
+        <transition on="searchByGenre">
+            <evaluate expression="libraryFacade.searchByGenre()"></evaluate>
+        </transition>
        <!-- <on-render>
             <evaluate expression="bookSearchImol.showBooks()"/>
         </on-render>-->
