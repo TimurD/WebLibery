@@ -28,6 +28,24 @@
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
+    <servlet>
+        <servlet-name>showImage</servlet-name>
+        <servlet-class>com.java.spring.libery.servlet.ShowImage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>showImage</servlet-name>
+        <url-pattern>/ShowImage</url-pattern>
+    </servlet-mapping>
+<servlet>
+    <servlet-name>pdfContent</servlet-name>
+    <servlet-class>com.java.spring.libery.servlet.PdfContent</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>pdfContent</servlet-name>
+    <url-pattern>/PdfContent</url-pattern>
+</servlet-mapping>
+
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
         <url-pattern>/app/*</url-pattern>

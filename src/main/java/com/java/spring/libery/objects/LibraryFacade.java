@@ -14,10 +14,10 @@ import java.util.List;
 /**
  * Created by timur_000 on 20.10.2016.
  */
-@Component
+@Component("libraryFacade")
 @Scope("singleton")
 public class LibraryFacade {
-
+    private static final String FIELD_CONTENT="content";
 
     private BookSearch bookSearch;
     private List<Book> books;
@@ -48,6 +48,9 @@ public class LibraryFacade {
                 books=bookSearch.showBooks(new Author(searchCriteria.getText()));
                 break;
         }
+    }
+    public byte[]getContent(long id){
+        return (byte[])bookSearch.getFieldValue(id,FIELD_CONTENT);
     }
 
 }

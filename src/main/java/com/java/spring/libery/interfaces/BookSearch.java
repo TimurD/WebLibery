@@ -18,4 +18,5 @@ public interface BookSearch {
     List<Book> showBooks(String bookName);
     List<Book> showBooks(Character firstLater);
     List<Book> showBooks(Genre genre);
+    Object getFieldValue(Long id,String filename);
 }

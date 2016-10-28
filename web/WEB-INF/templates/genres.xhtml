@@ -16,7 +16,9 @@
                     <ul>
                         <ui:repeat value="${genreSearchImpl.genres}" var="g">
                             <li>
-                                <p:commandLink value="${g.name}" action="searchByGenre" actionListener="#{searchCriteria.setGenre(g)}" ajax="false"/>
+                                <p:commandLink value="${g.name}" action="searchByGenre" actionListener="#{searchCriteria.setGenre(g)}" ajax="false">
+
+                                </p:commandLink>
                             </li>
                         </ui:repeat>
                     </ul>

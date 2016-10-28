@@ -77,6 +77,14 @@ public class BookSearchImol implements BookSearch {
         return books;
     }
 
+    @Transactional
+    public Object getFieldValue(Long id, String filename) {
+        Criteria criteria=sessionFactory.getCurrentSession().createCriteria(Book.class);
+        criteria.setProjection(Property.forName(filename));
+        criteria.add(Restrictions.eq("id",id));
+        return criteria.uniqueResult();
+    }
+
 
     public DetachedCriteria createBookCriteria (){
         DetachedCriteria bookListCriteria=DetachedCriteria.forClass(Book.class,"b");

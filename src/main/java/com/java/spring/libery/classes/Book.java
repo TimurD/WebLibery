@@ -17,6 +17,15 @@ public class Book {
     private String description;
     private Double rating;
     private Long voteCount;
+    private Long id;
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
 
     public Book() {
     }
