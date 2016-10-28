@@ -60,8 +60,9 @@
                     </div>
 
 
-                    <h:outputLink styleClass="mr" target="_blank">
+                    <h:outputLink styleClass="mr" value="#{request.contextPath}/PdfContent" target="_blank">
                         <p class="read">#{msg.read}</p>
+                        <f:param name="id" value="#{b.id}" />
                     </h:outputLink>
 
                     <h:outputLink styleClass="mr" value="#{request.contextPath}/PdfContent" target="_blank">

@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="125c97b8-9292-4f48-96a7-f2f69e3ba981" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/servlet/PdfContent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/servlet/ShowImage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/classes/com/java/spring/libery/objects/LibraryFacade.class" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/classes/com/java/spring/libery/objects/LibraryFacade.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/java/spring/libery/objects/LibraryFacade.class" afterPath="$PROJECT_DIR$/target/classes/com/java/spring/libery/objects/LibraryFacade.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/configs/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/configs/dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/flows/main.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/flows/main.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/genres.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/genres.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/letters.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/letters.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/search.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/templates/search.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/SpringWebLibery_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/Book.java" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/Book.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/BookSearchImol.java" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/BookSearchImol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/BookSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/BookSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacade.java" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacade.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/configs/dispatcher-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java" afterPath="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/genres.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/templates/letters.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/letters.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/search.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
     </list>
     <ignored path="SpringWebLibery.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LibraryFacade.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LibraryFacade.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-121">
+            <state relative-caret-position="391">
               <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
               <folding>
                 <element signature="e#1084#1085#0" expanded="true" />
@@ -95,21 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="964">
-              <caret line="133" column="22" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.xhtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.xhtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="30" column="95" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
+            <state relative-caret-position="66">
+              <caret line="64" column="61" selection-start-line="64" selection-start-column="61" selection-end-line="64" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -215,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacad.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Vote.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Publisher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/templates/library.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Author.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/Utils.java" />
@@ -231,10 +201,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/interfaces/BookSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacade.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/BookSearchImol.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/servlet/PdfContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" />
       </list>
     </option>
   </component>
@@ -618,7 +589,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
+              <option name="myItemId" value="entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1338,15 +1309,15 @@
       <workItem from="1477245054609" duration="1250000" />
       <workItem from="1477482084496" duration="7773000" />
       <workItem from="1477583730067" duration="6571000" />
-      <workItem from="1477660655834" duration="10118000" />
+      <workItem from="1477660655834" duration="10855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99564000" />
+    <option name="totallyTimeSpent" value="100301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1754,14 +1725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="30" column="95" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/classes/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1782,20 +1745,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="964">
-          <caret line="133" column="22" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/servlet/ShowImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/entity/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="176" column="41" selection-start-line="176" selection-start-column="41" selection-end-line="176" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1810,16 +1786,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/spring/libery/objects/LibraryFacade.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1602#1603#0" expanded="true" />
-            <element signature="e#1675#1676#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="64" column="61" selection-start-line="64" selection-start-column="61" selection-end-line="64" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>

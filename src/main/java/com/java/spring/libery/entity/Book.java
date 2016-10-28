@@ -9,7 +9,7 @@ import java.util.Arrays;
  * Created by timur_000 on 11.10.2016.
  */
 public class Book implements Serializable {
-    private int id;
+    private long id;
     private String name;
     private Integer pageCount;
     private Integer publishYear;
@@ -43,11 +43,11 @@ public class Book implements Serializable {
     private byte[] content;
     private Author authoId;
 
-    public int getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(long id) {
         this.id = id;
     }
 
@@ -172,7 +172,7 @@ public class Book implements Serializable {
 
     @Override
     public int hashCode() {
-        int result = id;
+        int result = (int) (id ^ (id >>> 32));
         result = 31 * result + (name != null ? name.hashCode() : 0);
         result = 31 * result + (pageCount != null ? pageCount.hashCode() : 0);
         result = 31 * result + (publishYear != null ? publishYear.hashCode() : 0);
