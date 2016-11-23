@@ -1,6 +1,6 @@
 package com.java.spring.libery.interfaces;
 
-import com.java.spring.libery.classes.Book;
+import com.java.spring.libery.entity.Book;
 
 /**
  * Created by timur_000 on 05.10.2016.
